@@ -1,0 +1,25 @@
+.App {
+  width: 100%;
+}
+
+.header {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  padding: 15px 0;
+  background-image: url("../public/images/bg-header.jpeg");
+}
+
+.link {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 25px;
+  font-weight: bold;
+  margin: 0 10%;
+}
+
+.link:hover {
+  cursor: pointer;
+}
